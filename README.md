@@ -22,5 +22,5 @@ I spend time learning offensive security, building tools, and solving CTFs
 ## Languages:
 - C
 - Python
-- Bash (a bit)
+- Bash (experimenting)
 ---
