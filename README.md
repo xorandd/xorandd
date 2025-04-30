@@ -19,8 +19,3 @@ I spend time learning offensive security, building tools, and solving CTFs
 + Analyzing system vulnerabilities
 
 ---
-## Languages:
-- C
-- Python
-- Bash (experimenting)
----
