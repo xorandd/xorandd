@@ -8,7 +8,7 @@ xorandd
 
 Welcome to my github,
 
-I spend time learning offensive security, building tools, and solving CTFs
+I spend time learning offensive security, building tools and solving CTFs
 
 ---
 ## Interests
